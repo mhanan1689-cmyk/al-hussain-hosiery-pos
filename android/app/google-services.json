@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838056305267",
+    "project_id": "alhussain-hosiery",
+    "storage_bucket": "alhussain-hosiery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838056305267:android:67aeabfd1d8fc7557ec006",
+        "android_client_info": {
+          "package_name": "com.example.alhussain_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ThsWfcvtylVkH2xQrtcHoul3BrR5sq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

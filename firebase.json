@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "alhussain-hosiery",
+          "appId": "1:838056305267:android:67aeabfd1d8fc7557ec006",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "alhussain-hosiery",
+          "configurations": {
+            "android": "1:838056305267:android:67aeabfd1d8fc7557ec006",
+            "ios": "1:838056305267:ios:6ce5acaa034990dc7ec006",
+            "macos": "1:838056305267:ios:6ce5acaa034990dc7ec006",
+            "web": "1:838056305267:web:f0272acc681e437a7ec006",
+            "windows": "1:838056305267:web:fdb9a07679b0f39a7ec006"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
