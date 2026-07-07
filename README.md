@@ -28,24 +28,6 @@ A modern Point of Sale (POS) and Inventory Management System developed using *Fl
 
 ## 📸 Screenshots
 
-### Login Screen
-(Add Screenshot Here)
-
-### Dashboard
-(Add Screenshot Here)
-
-### POS Screen
-(Add Screenshot Here)
-
-### Inventory
-(Add Screenshot Here)
-
-### Reports
-(Add Screenshot Here)
-
-## 🚀 Getting Started
-
-1. Clone the repository
 
 bash
 git clone https://github.com/mhanan1689-cmyk/al-hussain-hosiery-pos.git
